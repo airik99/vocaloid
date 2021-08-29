@@ -7,12 +7,6 @@ vocaloid(seeU, cancion(novemberRain, 6)).
 vocaloid(seeU, cancion(nightFever, 5)).
 vocaloid(kaito, cancion()).
 
-% predicados extra para pruebas
-/*vocaloid(facondo, cancion(aa, 3)).
-vocaloid(airik, cancion(hola, 9)).
-vocaloid(airik, cancion(chau, 7)).
-vocaloid(airik, cancion(aaa, 7)).*/
-
 % ------------ PUNTO 1 ------------
 
 esNovedoso(Vocaloid) :-
